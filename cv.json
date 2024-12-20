@@ -31,10 +31,10 @@
   },
   "work": [
     {
-      "name": "Alt Incubateur Tech",
-      "position": "Concepteur d'Applications",
-      "location_type": "A distance",
-      "location": "Bordeaux, Feance",
+      "name": "<Alt /> Incubateur Tech",
+      "position": "Applications Designer",
+      "location_type": "Remote",
+      "location": "Bordeaux, France",
       "url": "https://www.alt.bzh/",
       "startDate": "2024-18-10",
       "endDate": null,
@@ -48,51 +48,82 @@
       "achievements": [
         "Developing and maintaining web applications using JavaScript, HTML, and CSS. Collaborating with the team to implement new features and fix bugs."
       ],
-      "skills": ["React", "Tailwind", "GitHub"]
+      "skills": [
+        "React",
+        "NestJS",
+        "Typescript",
+        "Tailwind",
+        "Git",
+        "SQL",
+        "CI/CD",
+        "Figma",
+        "MySQL Workbench",
+        "Docker"
+      ]
     },
     {
-      "name": "Innovative Solutions",
-      "position": "Junior Software Developer",
-      "location_type": "Hybrid",
-      "location": "Wellington, New Zealand",
-      "url": "https://innovativesolutions.com",
-      "startDate": "2022-06-01",
-      "endDate": "2023-06-01",
-      "summary": "Assisting in the development and maintenance of software applications using Python and Django. Collaborating with cross-functional teams to ensure quality and timely delivery of software solutions.",
+      "name": "DAMIEN CARLI",
+      "position": "Freelance",
+      "location_type": "Remote",
+      "location": "Eysines, France",
+      "url": "https://www.pappers.fr/entreprise/carli-damien-921401063",
+      "startDate": "2022-08-11",
+      "endDate": "2023-07-25",
+      "summary": "Design, develop and optimize web sites or applications tailored to customer needs, while managing the technical, creative and administrative aspects of the business.",
       "highlights": [
         "Contributed to a major project that streamlined internal workflows, improving efficiency by 30%"
       ],
       "responsibilities": [
-        "Developed and maintained backend services using Python and Django.",
-        "Worked closely with front-end developers to integrate user-facing elements with server-side logic.",
-        "Participated in daily stand-ups and bi-weekly sprint planning meetings to ensure alignment with project goals."
+        "Understand customers' needs, advise them on the best solutions and ensure clear communication throughout the project.",
+        "Design, develop and deliver high-performance, secure and optimized web applications in compliance with quality standards.",
+        "Manage quotations, contracts, invoices, and ensure the planning and management of your freelance activity.."
       ],
       "achievements": [
         "Successfully implemented a feature that enhanced user authentication, improving security measures."
       ],
-      "skills": ["Python", "Django", "SQL", "Git"]
+      "skills": ["Symfony", "Tailwind", "Figma", "Git", "Linux"]
     },
     {
-      "name": "Web Agency",
-      "position": "Intern Web Developer",
+      "name": "CPAM De La Gironde",
+      "position": "Designer Developer",
       "location_type": "Remote",
-      "location": "Sydney, Australia",
-      "startDate": "2022-06-01",
-      "endDate": "2022-12-01",
+      "location": "Mérignac, France",
+      "url": "https://www.ameli.fr/gironde/assure",
+      "startDate": "2022-06-07",
+      "endDate": "2023-04-07",
+      "summary": "Creation of an overlay for the HQBilan application with mock-ups and technical supervision.",
+      "highlights": [
+        "Contributed to a major project that streamlined internal workflows, improving efficiency by 30%"
+      ],
+      "responsibilities": [
+        "Work closely with customers to analyze their needs, propose appropriate solutions and ensure ongoing project monitoring..",
+        "Design and develop high-performance applications, mock-ups and functional overlays for existing systems, applying best development practices.",
+        "Participate in the management of project tasks, meet deadlines, coordinate with teams and provide regular reports on development progress."
+      ],
+      "achievements": [
+        "Successfully implemented a feature that enhanced user authentication, improving security measures."
+      ],
+      "skills": [
+        "Symfony",
+        "Tailwind",
+        "Figma",
+        "Git",
+        "Linux",
+        "VueJS",
+        "Active Directory"
+      ]
+    },
+    {
+      "name": "Welabz",
+      "position": "Intern Web Developer",
+      "location_type": "On Site",
+      "location": "Orléans, France",
+      "url": "https://we-labz.com/",
+      "startDate": "2022-08-01",
+      "endDate": "2022-11-27",
       "summary": "Assisted in developing client websites and applications. Gained hands-on experience with front-end and back-end technologies.",
       "highlights": ["Completed several client projects successfully"],
-      "skills": ["HTML", "CSS"]
-    }
-  ],
-  "volunteer": [
-    {
-      "organization": "Local Coding Club",
-      "position": "Volunteer",
-      "url": "https://codingclub.com/",
-      "startDate": "2021-01-01",
-      "endDate": "2022-01-01",
-      "summary": "Helped organize coding workshops and mentored new members.",
-      "highlights": ["Awarded 'Volunteer of the Month'"]
+      "skills": ["HTML", "CSS", "Symfony", "Typescript"]
     }
   ],
   "education": [
