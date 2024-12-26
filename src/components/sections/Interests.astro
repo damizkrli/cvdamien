@@ -1,0 +1,22 @@
+---
+import Section from "../Section.astro";
+import { interests } from "@cv";
+
+const { className } = Astro.props;
+---
+
+<Section className={className} title="Interests">
+  <ul
+    class="inline-flex flex-wrap gap-6 [&>li>svg]:size-5 [&>li>svg]:text-skin-hue [&>li]:text-sm"
+  >
+    {
+      interests.map(({ name }) => {
+        return (
+          <li class="flex items-center gap-1 rounded-md border border-solid border-skin-hue/20 bg-skin-button-accent/20 px-2 py-0.5 text-xs text-skin-hue print:border-none print:bg-transparent print:p-0 print:text-zinc-800">
+            <span>{name}</span>
+          </li>
+        );
+      })
+    }
+  </ul>
+</Section>

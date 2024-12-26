@@ -10,6 +10,8 @@ import Skills from "@/components/sections/Skills.astro";
 import Tail from "@/components/sections/Tail.astro";
 import KeyboardManager from "@/components/KeyboardManager.astro";
 import ThemeSwitch from "@/components/ThemeSwitch.astro";
+import Languages from "@/components/sections/Languages.astro";
+import Interests from "@/components/sections/Interests.astro";
 
 import { basics } from "@cv";
 const { name, label } = basics;
@@ -29,10 +31,19 @@ const { name, label } = basics;
     <div
       class="space-y-12 md:col-span-4 print:col-span-1 print:grid print:grid-cols-4 print:gap-2 print:space-y-0"
     >
+      <div className="print:col-span-1">
+        <div className="print:flex print:flex-row">
+          <Languages className="print:col-1 hidden print:visible" />
+          <Interests className="print:col-1 hidden print:visible" />
+        </div>
+      </div>
+
       <Experience className="print:col-span-3" />
       <Projects className="print:hidden" />
       <Skills className="print:hidden" />
       <Education className="order-first" />
+      <Languages className="print:col-span-2 print:hidden" />
+      <Interests className="print:col-span-2 print:hidden" />
     </div>
     <Tail />
   </main>
@@ -48,5 +59,17 @@ const { name, label } = basics;
   main {
     margin: auto;
     width: 100%;
+  }
+
+  @media print {
+    .order-first {
+      order: 1;
+    }
+    .order-second {
+      order: 2;
+    }
+    .order-third {
+      order: 3;
+    }
   }
 </style>

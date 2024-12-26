@@ -39,7 +39,9 @@
       "startDate": "2024-18-10",
       "endDate": null,
       "summary": "Participation in a collective project to create an application in agile mode.",
-      "highlights": ["Improved website performance by optimizing code"],
+      "highlights": [
+        "Learning a new language, a new framework and a new development environment."
+      ],
       "responsibilities": [
         "Collaborated to design and implement web applications using ReactJS and NodeJS.",
         "Assisted in debugging and optimizing front-end code to ensure smooth user experiences.",
@@ -128,54 +130,67 @@
   ],
   "education": [
     {
-      "institution": "State University",
-      "url": "https://stateuniversity.edu",
+      "institution": "Wild Code School",
+      "url": "https://www.wildcodeschool.com/",
       "area": "Computer Science",
-      "studyType": "Bachelor",
-      "startDate": "2018-09-01",
-      "endDate": "2022-05-01",
+      "studyType": "Associate Degree",
+      "startDate": "2020-03-02",
+      "endDate": "2020-07-31",
       "score": "3.8",
       "courses": [
-        "CS101 - Introduction to Computer Science",
-        "CS102 - Data Structures"
+        "CS101 - HTML | CSS | Git",
+        "CS102 - PHP | Algo | MVC Architecture | SQL",
+        "CS103 - PHP | Symfony | SCRUM | "
       ]
     },
     {
-      "institution": "Tech Institute",
-      "url": "https://techinstitute.edu",
-      "area": "Software Engineering",
-      "studyType": "Master",
-      "startDate": "2020-09-01",
-      "endDate": "2022-12-01",
+      "institution": "Poitiers University",
+      "url": "https://sha.univ-poitiers.fr/dpt-psycho/",
+      "area": "Department of Psychology",
+      "studyType": "Associate Degree",
+      "startDate": "2006-09-18",
+      "endDate": "2008-06-27",
+      "score": "3.7",
+      "courses": [
+        "1st semester - Introduction to psychology",
+        "2nd semester - Database Management Systems",
+        "3rd semester - Psychologie cognitive",
+        "4th semester - Database Management Systems"
+      ]
+    },
+    {
+      "institution": "Lycée Cordouan",
+      "url": "https://lycee-cordouan.fr/",
+      "area": "High school",
+      "studyType": "Bachelor",
+      "startDate": "2002-09-02",
+      "endDate": "2006-07-12",
       "score": "3.9",
       "courses": [
         "SE201 - Advanced Software Development",
         "SE202 - Software Architecture and Design"
-      ]
-    },
-    {
-      "institution": "City College",
-      "url": "https://citycollege.edu",
-      "area": "Information Technology",
-      "studyType": "Associate Degree",
-      "startDate": "2017-01-01",
-      "endDate": "2019-12-01",
-      "score": "3.7",
-      "courses": [
-        "IT101 - Networking Fundamentals",
-        "IT102 - Database Management Systems"
       ]
     }
   ],
   "certificates": [
     {
       "name": "Full Stack Web Development",
-      "date": "2023-05-01",
-      "issuer": "Online University",
-      "url": "https://onlineuniversity.com/certificates/fullstack"
+      "date": "2025-05-13",
+      "issuer": "<Alt /> Incubateur",
+      "url": "https://www.francecompetences.fr/recherche/rncp/38606/"
     }
   ],
   "skills": [
+    {
+      "name": "React",
+      "level": "Intermediate",
+      "keywords": ["Web Development", "Frontend", "JavaScript Library", "UI"]
+    },
+    {
+      "name": "Symfony",
+      "level": "Intermediate",
+      "keywords": ["Web Development", "Frontend", "JavaScript Library", "UI"]
+    },
     {
       "name": "Figma",
       "level": "Expert",
@@ -198,6 +213,11 @@
     },
     {
       "name": "JavaScript",
+      "level": "Intermediate",
+      "keywords": ["Web Development", "Frontend", "Backend", "Fullstack"]
+    },
+    {
+      "name": "GitHub",
       "level": "Intermediate",
       "keywords": ["Web Development", "Frontend", "Backend", "Fullstack"]
     },
@@ -242,7 +262,7 @@
       "keywords": ["Version Control", "Collaboration", "Source Code", "Git"]
     },
     {
-      "name": "Next.js",
+      "name": "Nest.js",
       "level": "Beginner",
       "keywords": [
         "Web Development",
@@ -253,25 +273,41 @@
       ]
     },
     {
-      "name": "React",
+      "name": "Docker",
+      "level": "Beginner",
+      "keywords": ["Backend", "Server", "Web Development"]
+    },
+    {
+      "name": "Linux",
       "level": "Intermediate",
-      "keywords": ["Web Development", "Frontend", "JavaScript Library", "UI"]
+      "keywords": ["Operating System"]
     }
   ],
   "languages": [
     {
-      "language": "English",
+      "language": "French",
       "fluency": "Native speaker"
     },
     {
-      "language": "Spanish",
+      "language": "English",
       "fluency": "Intermediate"
     }
   ],
   "interests": [
     {
-      "name": "Technology",
-      "keywords": ["AI", "Blockchain"]
+      "name": "Video Games"
+    },
+    {
+      "name": "Movies/TV Shows"
+    },
+    {
+      "name": "Books"
+    },
+    {
+      "name": "Sports"
+    },
+    {
+      "name": "Hardware"
     }
   ],
   "references": [
@@ -282,46 +318,59 @@
   ],
   "projects": [
     {
-      "name": "Personal Portfolio",
-      "isActive": false,
-      "description": "A personal portfolio website to showcase my projects and skills.",
+      "name": "MyEvent",
+      "isActive": true,
+      "description": "An application for creating and participating in events",
       "highlights": [
         "Built with React and Tailwind CSS",
-        "Includes a blog and contact form"
+        "Team work in professional condition",
+        "Learn a new language and a new working environment"
       ],
       "url": "https://johndoe.dev",
-      "github": "https://github.com"
+      "github": "https://git.alt-tools.tech/gp_myevent/front/-/tree/develop?ref_type=heads"
     },
     {
-      "name": "Weather App",
+      "name": "PC CLIM",
       "isActive": true,
-      "description": "A web application that provides weather information for any location.",
+      "description": "A single page application for an French PME.",
       "highlights": [
-        "Built with JavaScript and OpenWeatherMap API",
-        "Responsive design"
+        "Project from scratch",
+        "Deploy and maintain a Single Page Application",
+        "Customer advice and administrative management"
       ],
-      "url": "https://weatherapp.com"
+      "url": "https://www.pc-clim.fr/"
     },
     {
-      "name": "Task Manager",
-      "isActive": true,
-      "description": "A simple task management app to keep track of daily tasks.",
-      "highlights": [
-        "Built with Node.js and MongoDB",
-        "User authentication and CRUD operations"
-      ],
-      "url": "https://taskmanager.com",
-      "github": "https://github.com"
-    },
-    {
-      "name": "E-commerce Site",
+      "name": "HQ Bilan Interface",
       "isActive": false,
-      "description": "An online store built with Next.js and Stripe for payment processing.",
+      "description": "An internal tool for managing departmental mailing lists.",
       "highlights": [
-        "Product management and shopping cart functionality",
-        "Secure payment integration"
+        "Overlaying an existing application",
+        "Discovering Active Directory",
+        "First solo professional project in a company"
       ],
-      "url": "https://ecommerce.com"
+      "github": "https://github.com/damizkrli/hqBilaninterface"
+    },
+    {
+      "name": "Loire&Orléans Éco",
+      "isActive": false,
+      "description": "Development of a site extension for user profile management.",
+      "highlights": [
+        "Training project with real customer",
+        "Use of SCRUM methodology",
+        "Group work"
+      ],
+      "github": "https://github.com/damizkrli/loireetorleans"
+    },
+    {
+      "name": "FollowJob",
+      "isActive": true,
+      "description": "Personal project to manage job applications.",
+      "highlights": [
+        "Need to gather job applications on a single platform",
+        "Working independently"
+      ],
+      "github": "https://github.com/damizkrli/follow_job"
     }
   ]
 }

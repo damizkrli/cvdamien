@@ -70,7 +70,7 @@ const SKILLS_ICONS: Record<string, any> = {
               </h3>
               {(location || location_type) && (
                 <div class="text-xs text-skin-muted">
-                  {location} {location && location_type && '-'} {location_type}
+                  {location} {location && location_type && '-'} {location_type} 
                 </div>
               )}
               <div class="mt-4  print:gap-0 flex flex-col gap-4 print:text-xs text-sm" x-data="{ expanded: false }">
@@ -113,7 +113,7 @@ const SKILLS_ICONS: Record<string, any> = {
                   </div>
                 )}
                 </div>
-                
+
                 <button @click="expanded = ! expanded" class="print:hidden group/more w-fit cursor-pointer items-center justify-center gap-1.5 text-xs underline text-skin-muted transition-all hover:text-skin-base flex">
                   <span x-text="expanded ? 'Show less' : 'Show more'">Show more</span>
                   <svg class="w-4 h-4 group-hover/more:translate-y-0.5 duration-200 ease-out" :class="{ 'rotate-180': expanded }" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><polyline points="6 9 12 15 18 9"></polyline></svg>
@@ -126,7 +126,7 @@ const SKILLS_ICONS: Record<string, any> = {
                     const Icon = SKILLS_ICONS[iconName]
                     return (
                       <li class="bg-skin-button-accent/20 border-skin-hue/20 text-skin-hue print:p-0 print:bg-transparent print:text-zinc-800 flex gap-1 items-center border-solid print:border-none border rounded-md px-2 py-0.5 text-xs">
-                        {Icon && <Icon />} <span>{skill}</span>
+                        <span>{skill}</span>
                       </li>
                     )
                   })}
