@@ -130,6 +130,20 @@
   ],
   "education": [
     {
+      "institution": "<Alt /> Incubateur",
+      "url": "https://www.alt.bzh/",
+      "area": "Computer Science",
+      "studyType": "RNCP",
+      "startDate": "2024-18-10",
+      "endDate": null,
+      "score": "3.8",
+      "courses": [
+        "Figma (create temple in mobile first)",
+        "MySQL Workbench",
+        "ReactJS"
+      ]
+    },
+    {
       "institution": "Wild Code School",
       "url": "https://www.wildcodeschool.com/",
       "area": "Computer Science",
@@ -174,10 +188,21 @@
   ],
   "certificates": [
     {
-      "name": "Full Stack Web Development",
+      "name": "Full Stack Web Development (RNCP 6)",
       "date": "2025-05-13",
       "issuer": "<Alt /> Incubateur",
       "url": "https://www.francecompetences.fr/recherche/rncp/38606/"
+    },
+    {
+      "name": "Web Developer (RNCP 5)",
+      "date": "2020-01-13",
+      "issuer": "Wild Code School",
+      "url": "https://www.francecompetences.fr/recherche/rncp/37805/"
+    },
+    {
+      "name": "Bachelor's degree (Literary cursus)",
+      "date": "2006-06-13",
+      "issuer": "Lycée Cordouan High School"
     }
   ],
   "skills": [
