@@ -65,112 +65,79 @@
       "responsibilities": [
         "Concevoir une application web",
         "Coder",
-        "Créer une documentation technique"
+        "Créer une documentation technique",
+        "Analyser les besoins informatiques",
+        "Concevoir et développer",
+        "Collaborer avec des équipes multidisciplinaires pour des projets web",
+        "Implémenter des mesures de sécurité pour les applications",
+        "Faire preuve d'autonomie",
+        "Faire preuve de créatiivité et d'inventivité",
+        "Faire preuve de rigeur et de précision"
       ],
-      "achievements": [
-        "Successfully implemented a feature that enhanced user authentication, improving security measures."
-      ],
-      "skills": ["Symfony", "Tailwind", "Figma", "Git", "Linux"]
-    },
-    {
-      "name": "CPAM De La Gironde",
-      "position": "Designer Developer",
-      "location_type": "Remote",
-      "location": "Mérignac, France",
-      "url": "https://www.ameli.fr/gironde/assure",
-      "startDate": "2022-06-07",
-      "endDate": "2023-04-07",
-      "summary": "Creation of an overlay for the HQBilan application with mock-ups and technical supervision.",
-      "highlights": [
-        "Contributed to a major project that streamlined internal workflows, improving efficiency by 30%"
-      ],
-      "responsibilities": [
-        "Work closely with customers to analyze their needs, propose appropriate solutions and ensure ongoing project monitoring..",
-        "Design and develop high-performance applications, mock-ups and functional overlays for existing systems, applying best development practices.",
-        "Participate in the management of project tasks, meet deadlines, coordinate with teams and provide regular reports on development progress."
-      ],
-      "achievements": [
-        "Successfully implemented a feature that enhanced user authentication, improving security measures."
-      ],
-      "skills": [
-        "Symfony",
-        "Tailwind",
-        "Figma",
-        "Git",
-        "Linux",
-        "VueJS",
-        "Active Directory"
-      ]
+      "skills": ["Gestion de projet informatique", "HTML", "Language de programmation informatique", "Programmatiion logicielle", "Tests et validation de logiciels", "Virtualisation des servers", "Conception d'interface utilisateur"]
     },
     {
       "name": "Welabz",
-      "position": "Intern Web Developer",
-      "location_type": "On Site",
+      "position": "Concepteur-Developpeur",
+      "location_type": "Sur Site",
       "location": "Orléans, France",
       "url": "https://we-labz.com/",
       "startDate": "2022-08-01",
       "endDate": "2022-11-27",
-      "summary": "Assisted in developing client websites and applications. Gained hands-on experience with front-end and back-end technologies.",
-      "highlights": ["Completed several client projects successfully"],
-      "skills": ["HTML", "CSS", "Symfony", "Typescript"]
+      "summary": "Dans le cadre de l’optimisation d’une application pour un coach sportif, correction des bugs concernant la fonction “prise de rdv.",
+      "highlights": [
+        "Coder",
+        "Optimiser des algorithmes, une application informatique et mettre en oeuvre leur développement", 
+        "Tester un logiciel, un système d'informations, une application",
+        "Réaliser les essais de fonctionnement",
+        "Résoudre les problèmes techniques et bug des sites",
+        "Faire preuve d'autonomie",
+        "Faire preuve de créatiivité et d'inventivité",
+        "Faire preuve de rigeur et de précision"
+      ],
+      "skills": [
+        "Application Web",
+        "CMS (Système de gestion de contenu)",
+        "HTML",
+        "Language de programmation informatique",
+        "Programmatiion logicielle",
+        "Tests et validation de logiciels",
+        "Conception d'interface utilisateur"
+      ]
     }
   ],
   "education": [
     {
       "institution": "<Alt /> Incubateur",
       "url": "https://www.alt.bzh/",
-      "area": "Computer Science",
-      "studyType": "RNCP",
+      "area": "Concepteur développeur d'application (CDA)",
+      "studyType": "RNCP 6",
       "startDate": "2024-10-18",
-      "endDate": "2025-04-01",
-      "score": "3.8",
-      "courses": [
-        "Figma (create temple in mobile first)",
-        "MySQL Workbench",
-        "ReactJS"
-      ]
+      "endDate": "2025-04-01"
     },
     {
       "institution": "Wild Code School",
       "url": "https://www.wildcodeschool.com/",
-      "area": "Computer Science",
-      "studyType": "Associate Degree",
+      "area": "Développeur Web et Web Mobile (DWWM)",
+      "studyType": "RNCP 5",
       "startDate": "2020-03-02",
-      "endDate": "2020-07-31",
-      "score": "3.8",
-      "courses": [
-        "CS101 - HTML | CSS | Git",
-        "CS102 - PHP | Algo | MVC Architecture | SQL",
-        "CS103 - PHP | Symfony | SCRUM | "
-      ]
+      "endDate": "2020-07-31"
     },
     {
-      "institution": "Poitiers University",
+      "institution": "Université de Poitiers",
       "url": "https://sha.univ-poitiers.fr/dpt-psycho/",
-      "area": "Department of Psychology",
-      "studyType": "Associate Degree",
+      "area": "Département de Psychologie",
+      "studyType": "Licence 2 Psychologie",
       "startDate": "2006-09-18",
-      "endDate": "2008-06-27",
-      "score": "3.7",
-      "courses": [
-        "1st semester - Introduction to psychology",
-        "2nd semester - Database Management Systems",
-        "3rd semester - Psychologie cognitive",
-        "4th semester - Database Management Systems"
-      ]
+      "endDate": "2008-06-27"
     },
     {
       "institution": "Lycée Cordouan",
       "url": "https://lycee-cordouan.fr/",
-      "area": "High school",
-      "studyType": "Bachelor",
+      "area": "Lycée Général",
+      "studyType": "Baccalauréat Littéraire",
       "startDate": "2002-09-02",
-      "endDate": "2006-07-12",
-      "score": "3.9",
-      "courses": [
-        "SE201 - Advanced Software Development",
-        "SE202 - Software Architecture and Design"
-      ]
+      "endDate": "2006-07-12"
     }
   ],
   "certificates": [
