@@ -86,7 +86,7 @@ const printInfo = [email, phone, linkedUrl].filter(Boolean).join(" • ");
 			</footer>
 		</div>
 		<figure class="print:hidden w-fit relative">
-			<img class="shadow-lg shadow-skin-hues" src={image} alt={name} />
+			<img class="w-auto h-auto max-w-full rounded-2xl shadow-lg shadow-skin-hues" src={image} alt={name} />
 			<div class="pointer-events-none absolute -inset-2">
 				<div class="absolute -inset-y-8 right-0 w-px bg-skin-hue/50 [mask-image:linear-gradient(to_top,transparent,white_4rem,white_calc(100%-4rem),transparent)]"></div>
 				<div class="absolute -inset-y-8 left-0 w-px bg-skin-hue/50 [mask-image:linear-gradient(to_top,transparent,white_4rem,white_calc(100%-4rem),transparent)]"></div>
@@ -111,8 +111,9 @@ const printInfo = [email, phone, linkedUrl].filter(Boolean).join(" • ");
 	}
 
 	img {
-		@apply aspect-square w-32 rounded-2xl bg-cover;
+	    @apply rounded-2xl shadow-lg;
 	}
+
 
 	span {
 		@apply flex items-center gap-1 text-xs text-skin-hue ;

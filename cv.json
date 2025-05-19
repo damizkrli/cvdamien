@@ -1,12 +1,12 @@
 {
   "basics": {
     "name": "Damien Carli",
-    "label": "Junior Full Stack Developer",
-    "image": "mon_avatar.png",
+    "label": "Concepteur Développeur",
+    "image": "me.jpg",
     "email": "karli.damien@gmail.com",
     "phone": "+33 660862734",
     "url": "https://johndoe.dev",
-    "summary": "Junior Full Stack Developer with a passion for building web applications. Currently in ReactJS formation to further develop my skills in a professional setting.",
+    "summary": "Après une 1ère partie de parcours professionnel dans le domaine de la gestion client (2 ans) et de la logistique (9 ans), j’ai choisi de donner une nouvelle orientation à ma carrière en me formant comme Concepteur-Développeur. A ce titre, je viens de terminer une 2ème formation dans ce secteur et je cherche à présent à intégrer une entreprise où je pourrais mettre en pratique mon expertise.",
     "theme": "blue",
     "location": {
       "address": "",
@@ -31,54 +31,41 @@
   },
   "work": [
     {
-      "name": "<Alt /> Incubateur Tech",
-      "position": "Applications Designer",
-      "location_type": "Remote",
+      "name": "Abaques Audiovisuel",
+      "position": "Gestionnaire de parc informatique",
+      "location_type": "Sur site",
       "location": "Bordeaux, France",
-      "url": "https://www.alt.bzh/",
-      "startDate": "2024-18-10",
-      "endDate": null,
-      "summary": "Participation in a collective project to create an application in agile mode.",
-      "highlights": [
-        "Learning a new language, a new framework and a new development environment."
-      ],
+      "url": "https://www.abaques.fr/",
+      "startDate": "2023",
+      "endDate": "2024",
+      "summary": "Gestion du parc informatique, maintenance préventive (mises à jour logicielles, surveillance des ressources, etc.), maintenance corrective (réinstallation système d’exploitation et réparation fichier corrompu, etc.)",
       "responsibilities": [
-        "Collaborated to design and implement web applications using ReactJS and NodeJS.",
-        "Assisted in debugging and optimizing front-end code to ensure smooth user experiences.",
-        "Participated in code reviews and contributed to improving coding standards within the team."
-      ],
-      "achievements": [
-        "Developing and maintaining web applications using JavaScript, HTML, and CSS. Collaborating with the team to implement new features and fix bugs."
+        "Rédiger et élaborer des notices et fiches techniques",
+        "Tester un logiciel",
+        "Analyser les besoins informatiques",
+        "Faire preuve d'autonomie",
+        "Faire preuve de rigeur et de précision"
       ],
       "skills": [
-        "React",
-        "NestJS",
-        "Typescript",
-        "Tailwind",
-        "Git",
-        "SQL",
-        "CI/CD",
-        "Figma",
-        "MySQL Workbench",
-        "Docker"
+        "Cybresécurité",
+        "Sécurité des applications Web",
+        "Tests et validation de logiciels",
+        "Réseaux informatiques et télécoms"
       ]
     },
     {
-      "name": "DAMIEN CARLI",
-      "position": "Freelance",
-      "location_type": "Remote",
-      "location": "Eysines, France",
-      "url": "https://www.pappers.fr/entreprise/carli-damien-921401063",
-      "startDate": "2022-08-11",
-      "endDate": "2023-07-25",
-      "summary": "Design, develop and optimize web sites or applications tailored to customer needs, while managing the technical, creative and administrative aspects of the business.",
-      "highlights": [
-        "Contributed to a major project that streamlined internal workflows, improving efficiency by 30%"
-      ],
+      "name": "CPAM de la Gironde",
+      "position": "CDI",
+      "location_type": "Hybride",
+      "location": "Mérignac, France",
+      "url": "https://www.google.com/search?client=firefox-b-e&q=CPAM+de+la+gironde",
+      "startDate": "2021-06-01",
+      "endDate": "2022-06-01",
+      "summary": "Création d’une interface de gestion des droits d’accès aux dossiers des collaborateurs. Cet outil permet aux managers d’administrer les autorisations sur les dossiers projets et affaires courantes, en fonction des missions des employés.",
       "responsibilities": [
-        "Understand customers' needs, advise them on the best solutions and ensure clear communication throughout the project.",
-        "Design, develop and deliver high-performance, secure and optimized web applications in compliance with quality standards.",
-        "Manage quotations, contracts, invoices, and ensure the planning and management of your freelance activity.."
+        "Concevoir une application web",
+        "Coder",
+        "Créer une documentation technique"
       ],
       "achievements": [
         "Successfully implemented a feature that enhanced user authentication, improving security measures."
