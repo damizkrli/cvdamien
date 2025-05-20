@@ -299,11 +299,11 @@
     {
       "name": "MyEvent",
       "isActive": true,
-      "description": "An application for creating and participating in events",
+      "description": "Une application web permettant de créer, consulter et commenter des événements. L’objectif est d’offrir une interface claire et interactive pour faciliter l’organisation et la participation à des événements.",
       "highlights": [
-        "Built with React and Tailwind CSS",
-        "Team work in professional condition",
-        "Learn a new language and a new working environment"
+        "Réalisé avec ReactJS, NestJS et TailwindCSS",
+        "Travail d'équipe dans des conditions professionnelles",
+        "Apprendre une nouvelle langue et un nouvel environnement de travail"
       ],
       "url": "https://johndoe.dev",
       "github": "https://git.alt-tools.tech/gp_myevent/front/-/tree/develop?ref_type=heads"
@@ -311,43 +311,44 @@
     {
       "name": "PC CLIM",
       "isActive": true,
-      "description": "A single page application for an French PME.",
+      "description": " Transformation du site web de Charentaise PC Clim avec récupération du nom de domaine. Création complète du projet, de la maquette à la sécurité, intégration d'un système d'envoi de mails et optimisation du référencement.",
       "highlights": [
-        "Project from scratch",
-        "Deploy and maintain a Single Page Application",
-        "Customer advice and administrative management"
+        "Symfony · PHP · Développement web · Mise à jour de sites web",
+        "Référencement · Autonomie · MySQL · TailwindCSS",
+        "Gestion de projet agile · Hébergement web · Satisfaction client · Communication"
       ],
       "url": "https://www.pc-clim.fr/"
     },
     {
       "name": "HQ Bilan Interface",
       "isActive": false,
-      "description": "An internal tool for managing departmental mailing lists.",
+      "description": "Une application interne réservée aux managers de la CPAM pour gérer les droits NTFS via LDAP. Elle permet de rechercher un service ou un collaborateur et de lui attribuer les accès aux dossiers liés à son poste.",
       "highlights": [
-        "Overlaying an existing application",
-        "Discovering Active Directory",
-        "First solo professional project in a company"
+        "Superposition d'une application existante",
+        "Découverte d'Active Directory",
+        "Premier projet professionnel en solo dans une entreprise"
       ],
       "github": "https://github.com/damizkrli/hqBilaninterface"
     },
     {
       "name": "Loire&Orléans Éco",
       "isActive": false,
-      "description": "Development of a site extension for user profile management.",
+      "description": "Dans le cadre de ma formation Wild School, projet de fin de formation avec un vrai client à savoir Loire&Orléans Éco. Développement de la page trombinoscope de leur site internet pour recenser l'ensemble des acteurs économiques locaux.",
       "highlights": [
-        "Training project with real customer",
-        "Use of SCRUM methodology",
-        "Group work"
+        "Projet de formation avec un client réel",
+        "Travail en Agilité",
+        "Utilisation d'outils de développement"
       ],
       "github": "https://github.com/damizkrli/loireetorleans"
     },
     {
       "name": "FollowJob",
       "isActive": true,
-      "description": "Personal project to manage job applications.",
+      "description": "Dans le cadre de ma recherche d'emploi : création d'un tableau de bord (Web App) centralisant toutes les informations clés liées à mes candidatures, telles que l'intitulé du poste, la date de parution, la date de réponse et les contacts.",
       "highlights": [
-        "Need to gather job applications on a single platform",
-        "Working independently"
+        "Développement et conception web avec PHP, Symfony et approche orientée objet.",
+        "Gestion de bases de données MySQL, intégration avec TailwindCSS et versionnement via Git.",
+        "Notions en administration système Linux et design graphique appliqué aux interfaces web."
       ],
       "github": "https://github.com/damizkrli/follow_job"
     }
